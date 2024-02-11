@@ -28,7 +28,7 @@
   ],
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
-    "@npmcli/template-oss": "4.11.4",
+    "@npmcli/template-oss": "4.20.0",
     "minipass": "^4.0.2",
     "nock": "^13.3.0",
     "tap": "^16.3.4"
@@ -42,7 +42,7 @@
   "homepage": "https://npmjs.com/package/libnpmorg",
   "dependencies": {
     "aproba": "^2.0.0",
-    "npm-registry-fetch": "^14.0.3"
+    "npm-registry-fetch": "^15.0.0"
   },
   "engines": {
     "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
