@@ -194,15 +194,15 @@
     "@npmcli/git": "^4.0.1",
     "@npmcli/mock-registry": "^1.0.0",
     "@npmcli/promise-spawn": "^6.0.2",
-    "@npmcli/template-oss": "4.11.4",
-    "licensee": "^10.0.0",
+    "@npmcli/template-oss": "4.21.0",
+    "licensee": "^10.0.1",
     "nock": "^13.3.0",
     "npm-packlist": "^7.0.4",
     "remark": "^14.0.2",
     "remark-gfm": "^3.0.1",
     "remark-github": "^11.2.4",
     "spawk": "^1.7.1",
-    "tap": "^16.3.4"
+    "tap": "^18.0.0"
   },
   "scripts": {
     "dependencies": "node scripts/bundle-and-gitignore-deps.js && node scripts/dependency-graph.js",
